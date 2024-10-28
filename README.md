@@ -1,0 +1,1 @@
+# Lekce6-Priklad-Zakladni-validace
