@@ -1,6 +1,6 @@
 console.log(validator.isEmail("stranska.magdalena@gmail.com"))
 console.log(validator.isCreditCard("4125010001000208", ""))
-console.log(validator.isCreditCard("5443226010393168", ""))
+
 
 const email = prompt("Zadej e-mail")
 
